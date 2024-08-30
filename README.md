@@ -18,8 +18,8 @@ This Node.js script uses OpenAI's API to generate an HTML code for a recipe blog
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/recipe-blog-generator.git
-    cd recipe-blog-generator
+    git clone https://github.com/farrosfr/OpenAI-JS-Recipe-Blog.git
+    cd OpenAI-JS-Recipe-Blog
     ```
 
 2. Install the necessary dependencies:
